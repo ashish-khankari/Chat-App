@@ -45,7 +45,7 @@ const file = {
   friends: [
     {
       id: 2,
-      name: "Hariom Patidar",
+      name: "Ashish Khankari",
       picture: "Images/img3.jpg",
       chatlog: [
         {
@@ -82,7 +82,7 @@ const file = {
     },
     {
       id: 3,
-      name: "Keshav",
+      name: "Keval",
       picture: "Images/img2.jpg",
       chatlog: [
         {
